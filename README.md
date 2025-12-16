@@ -1,8 +1,8 @@
 ## Hi, I'm Bill Lee 👋
 
-- 🔭 I’m currently working on an HTTP server built from scratch in Go!
-- 🌱 I’m currently learning Golang!
-- 👯 I’m looking to collaborate on python and C# libraries
-- 🤔 I’m looking for help with enhanced design patterns
+- 🔭 I’m currently working on a Golang Gin API for a Social Book Reading application!
+- 🌱 I’m currently learning Frontend best practices!
+- 👯 I’m looking to collaborate on Python, JavaScript, and C# libraries
+- 🤔 I’m looking for help with implementing enhanced design patterns (pub/sub use cases)
 
 
